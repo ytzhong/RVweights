@@ -1,6 +1,6 @@
 In this folder, we present the weights trained from the Framingham Heart Study (off-spring and third-generation cohorts) with a total sample size of 2,441. 
 
-There are three files:
+There are a few files with their name begin with:
 1. CV_full_weights.tar.gz contains weights trained from CVs-only models
 2. Joint_full_weights.tar.gz contains weights trained from joint models (CVs and RVs)
 3. RV_full_weights.tar.gz contains weights trained from RVs-only models
@@ -21,4 +21,5 @@ Yang T, Wu C, Wei P, Pan W. Integration of DNA seequencing and transcriptomic da
 Enjoy!
 
 TZ
+
 2019.7.24
