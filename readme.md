@@ -1,4 +1,4 @@
-In this folder, we present the weights we trained from the Framingham Heart Study (off-spring and third-generation cohorts). The weights are trained from 2,443 samples in total. 
+In this folder, we present the weights trained from the Framingham Heart Study (off-spring and third-generation cohorts) with a total sample size of 2,443. 
 
 There are three files:
 1. CV_full_weights.tar.gz contains weights trained from CVs-only models
