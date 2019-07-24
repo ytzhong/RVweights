@@ -17,4 +17,6 @@ Further details of the model are described in:
 Yang T, Wu C, Wei P, Pan W. Integration of DNA seequencing and transcriptomic data for association analyses of rare variants and lipid traits (unpublished work)
 
 Enjoy!
+
 TZ
+2019.7.24
