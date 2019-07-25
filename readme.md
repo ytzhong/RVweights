@@ -5,7 +5,7 @@ There are a few files with their names begin with:
 2. Joint_full_weights.tar.gz contains weights trained from joint models (CVs and RVs)
 3. RV_full_weights.tar.gz contains weights trained from RVs-only models
 
-After unziping the files, there are multiple .RDat files with the name of genes (official symbol). 
+After unziping the files, there are multiple .RDat files with the names of genes (official symbol). 
 
 In each .RDat file, there are three components:
 1. bimfile: contains the SNP location (hg19), reference allele, and alternative allele
