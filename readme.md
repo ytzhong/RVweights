@@ -15,7 +15,9 @@ In each .RDat file, there are three components:
 For Joint_full_weights files, we further indicate whether an included SNP is a RV and how many RVs are selected in the final model in R2 (nRV_min) and wgt.matrix (rare_ind), respectively.
 
 Further details of the models and dataset are described in:
-Yang T, Wu C, Wei P, Pan W. Integration of DNA seequencing and transcriptomic data for association analyses of rare variants and lipid traits (unpublished work)
+Yang, Tianzhong, Chong Wu, Peng Wei, and Wei Pan. "Integrating DNA sequencing and transcriptomic data for association analyses of low-frequency variants and lipid traits." Human Molecular Genetics (2020).
+
+Disclaimer: The user assumes the entire risk associated with its use of these data and is responsible to comply with any data usage policy from the original FHS study.
 
 Enjoy!
 
